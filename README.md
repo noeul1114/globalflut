@@ -1,8 +1,6 @@
-# flutter_app
+# Global stock (가칭) flutter 기반 크로스플랫폼 개발
 
-A new Flutter application.
+Global stock django REST API 기반 IOS/Android 개발 
 
-## Getting Started
+## 현재 작업중
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
